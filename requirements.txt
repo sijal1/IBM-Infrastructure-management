@@ -1,0 +1,11 @@
+﻿certifi==2021.5.30
+chardet==3.0.4
+Django==1.8.5
+django-countries==5.3.3
+django-crispy-forms==1.7.2
+pep8==1.7.1
+pycodestyle==2.5.0
+python-decouple==3.2
+pytz==2021.1
+sqlparse==0.4.2
+urllib3==1.26.6
